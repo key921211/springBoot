@@ -16,7 +16,7 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
-   /* @Bean
+    /*@Bean
     public SqlSessionFactory sqlSessionFactory(DataSource dataSource) throws Exception{
 
         SqlSessionFactoryBean sessionFactory = new SqlSessionFactoryBean();
